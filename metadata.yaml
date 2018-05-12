@@ -1,0 +1,29 @@
+_repo: The-Evolutionist-at-Large_44820
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44820-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Allen, Grant
+    alias: Allen, Charles Grant Blairfindie
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '1452'
+    url: http://www.gutenberg.org/2009/agents/1452
+    wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
+description: ''
+gutenberg_issued: '2014-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history'
+- !lcsh 'Evolution'
+- !lcc 'QH'
+title: The Evolutionist at Large
+url: http://www.gutenberg.org/ebooks/44820
